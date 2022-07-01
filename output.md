@@ -1,0 +1,2 @@
+installed minikube
+installed helm
